@@ -1,0 +1,19 @@
+{
+  "name": "guia-turismo",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan3300/guia-turismo.git"
+  },
+  "author": "Alan Verrua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan3300/guia-turismo/issues"
+  },
+  "homepage": "https://github.com/alan3300/guia-turismo#readme"
+}
